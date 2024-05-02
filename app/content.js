@@ -1,4 +1,4 @@
 export const mainHero = {
-    h1: 'Plaats een SEO vriendelijke Hero tekst hier',
-    paragraaf: 'Plaats een SEO vriendelijke text die de H1 text ondersteunt hier',
+    h1: 'Professionele Autowasbeurt in Roeselare',
+    paragraaf: 'Ervaar de beste zorg voor uw voertuig met onze grondige en milieuvriendelijke wasmethoden. Perfecte resultaten, elke keer weer!',
 };
